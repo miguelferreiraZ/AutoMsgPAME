@@ -2,6 +2,8 @@
 
 Sistema automático de envio de mensagens via WhatsApp para processos seletivos do PAME.
 
+Repositório destinado à automação de envio de mensagens de aprovação no WhatsApp Web do processo seletivo da Fluxo Consultoria.
+
 ## Funcionalidades
 
 - Envio automático de mensagens personalizadas via WhatsApp Web
