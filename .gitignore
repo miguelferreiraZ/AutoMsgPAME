@@ -1,0 +1,23 @@
+# arquivos de progresso e log
+progresso_envio.json
+log_envios.txt
+
+# arquivos python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# ambientes virtuais
+venv/
+env/
+ENV/
+
+# arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# planilhas (descomente se quiser versionar)
+# *.csv
+# *.xlsx
