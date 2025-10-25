@@ -1,6 +1,7 @@
 # arquivos de progresso e log
 progresso_envio.json
 log_envios.txt
+PyWhatKit_DB.txt
 
 # arquivos python
 __pycache__/
